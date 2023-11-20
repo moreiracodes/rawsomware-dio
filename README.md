@@ -1,3 +1,3 @@
 # rawsomware-dio
 
-(demo.png)
+![](demo.png)
